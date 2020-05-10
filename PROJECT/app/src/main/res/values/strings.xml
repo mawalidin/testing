@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NYAAN</string>
+    <string name="about">Profil</string>
+    <string name="contact">Kontak</string>
+    <string name="list">List Teman</string>
+    <string name="goodMorning">Good Morning Walidin!</string>
+    <string name="name">M. Walidin</string>
+    <string name="nim">10117094</string>
+    <string name="kelas">IF-3/AKB-3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
